@@ -1,1 +1,2 @@
 # E-Commerce-Purchase
+This Power BI dashboard leverages e-commerce data to provide a comprehensive view of customer purchases and interactions. It features a diverse range of visuals, including a map chart with device category icons, cards, donut charts, bar charts, and gauges. The dashboard effectively communicates key metrics such as sales statistics, device usage, gender distribution, and order status, presenting a clear and insightful summary of customer behavior.
